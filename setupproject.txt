@@ -1,0 +1,15 @@
+1.first create project file
+2.dependency install.
+3.nodemone install (npm install -g nodemon)
+
+
+//You can also install nodemon as a development dependency:
+npm install --save-dev nodemon
+
+For single project
+npm i -D nodemon
+
+4.now setup mongodb
+//first open programme file in C folder and click mongodb folder now check version like something 4.4 or higher depend on upgrade 
+//now open cmd and paste it---   "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
+//now don't close this cmd it's runnig for mongodb compus now open mongodb compus on pc softwear your set .....
